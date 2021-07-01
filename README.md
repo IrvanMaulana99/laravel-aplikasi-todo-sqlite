@@ -46,5 +46,21 @@ Buat file dengan nama " database.sqlite " di folder Database
 ### Buka Program
 Ketik http://localhost:8000/ di Url Browser
 
+#### Screenshot
+
+![Login](https://github.com/IrvanMaulana99/laravel-aplikasi-todo-sqlite/blob/master/screenshot/1.png?raw=true)
+
+![Daftar](https://github.com/IrvanMaulana99/laravel-aplikasi-todo-sqlite/blob/master/screenshot/2.png?raw=true)
+
+![Dashboard](https://github.com/IrvanMaulana99/laravel-aplikasi-todo-sqlite/blob/master/screenshot/3.png?raw=true)
+
+![Tambah Todo](https://github.com/IrvanMaulana99/laravel-aplikasi-todo-sqlite/blob/master/screenshot/4.png?raw=true)
+
+![List Todo](https://github.com/IrvanMaulana99/laravel-aplikasi-todo-sqlite/blob/master/screenshot/5.png?raw=true)
+
+![Edit](https://github.com/IrvanMaulana99/laravel-aplikasi-todo-sqlite/blob/master/screenshot/6.png?raw=true)
+
+![setting](https://github.com/IrvanMaulana99/laravel-aplikasi-todo-sqlite/blob/master/screenshot/7.png?raw=true)
+
 ### Lisensi
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
